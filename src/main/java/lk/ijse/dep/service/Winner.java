@@ -35,7 +35,7 @@ public class Winner {
         row2 = -1;
     }
     @Override
-    public  String toString(){
+    public  String  toString(){
         return "Winner{" +
                 "winningPiece=" + WinningPiece +
                 ",col1=" + col1 +
